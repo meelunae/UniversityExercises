@@ -1,6 +1,6 @@
 //This code generates a pseudo-random array of N length
 //displays the array just like it was generated 
-//then sorts it using the bubble sorting algorythm
+//then sorts it using the bubble sorting algorithm
 #include <stdio.h> 
 #include <stdlib.h>
 #define NUM 50000
